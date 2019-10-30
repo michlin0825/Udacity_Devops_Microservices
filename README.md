@@ -21,6 +21,6 @@ We are given a pre-trained, sklearn model that has been trained to predict housi
 ## Setting up
 
 * Run `make install` to install the necessary dependencies
-* Run in Docker:  `./run_docker.sh`
-* Run in Kubernetes:  `./run_kubernetes.sh`
+* Run Docker:  `./run_docker.sh`
+* Run Kubernetes:  `./run_kubernetes.sh`
 
