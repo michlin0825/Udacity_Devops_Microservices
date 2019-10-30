@@ -4,7 +4,7 @@
 
 The project objective is to operationalize a Machine Learning Microservice API. 
 
-We are given a pre-trained, `sklearn` model that has been trained to predict housing prices in Boston according to several features. We operationalizes a Python flask app—in a provided file, `app.py`—that serves out predictions (inferences) about housing prices through API calls. 
+We are given a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features. We operationalizes a Python flask app—in a provided file, `app.py`—that serves out predictions (inferences) about housing prices through API calls. 
 
 
 ## Files explanation
